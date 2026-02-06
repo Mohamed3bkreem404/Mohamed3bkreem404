@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🥷🏻 Mohamed AbdElkareem
+**`Digital Craftsman`**
 
-<!--
-**Mohamed3bkreem404/Mohamed3bkreem404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer , specialist in Backend & devops , Java apologist
 
-Here are some ideas to get you started:
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
+
+#
+
+#
+<details>
+  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+I started my journey in computer science driven by curiosity about how software systems really work — not just writing code, but understanding how applications run, scale, and survive in production. Early on, I focused heavily on backend development using Java and Spring Boot, where I learned how to design clean APIs, work with databases, and build reliable systems.
+
+As I progressed, I realized that writing backend code was only part of the story. I became increasingly interested in what happens *after* the code is written: deployment, automation, reliability, and scalability. That curiosity naturally pulled me toward Linux, Bash scripting, Git, CI/CD pipelines, and containerization.
+
+Today, I’m actively building myself as a backend engineer with strong DevOps foundations, aiming to grow into a Platform Engineer role — someone who not only builds services, but also designs the infrastructure and platforms that enable teams to ship software efficiently and reliably.
+
+My long-term goal is to build production-ready systems and platforms that solve real problems, combining solid software engineering with modern DevOps and cloud-native practices. This journey is far from finished — but I’m committed to continuous learning, real-world projects, and getting better every day.
+</details>
+
