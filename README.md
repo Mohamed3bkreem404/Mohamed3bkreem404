@@ -20,14 +20,6 @@
 
 ---
 
-## 🚀 What I Actually Do
-- Architect and build **scalable backend services**
-- Design **cloud-native & containerized platforms**
-- Automate delivery using **CI/CD & Infrastructure as Code**
-- Focus on **observability, reliability, and clean systems**
-
----
-
 ## 🧰 Tech Stack (Battle-Tested)
 
 ### Backend & Languages
@@ -60,18 +52,7 @@
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelkareem&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-abdelkareem&theme=tokyonight" />
-</p>
-
----
-
-<details>
   <summary><b>👨‍💻 My Journey (for the curious)</b></summary>
 
 I started with backend development using Java & Spring Boot, then naturally moved into
