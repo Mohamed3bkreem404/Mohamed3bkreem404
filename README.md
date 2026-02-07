@@ -44,22 +44,14 @@
 
 ---
 
-## 🛠️ Things I’m Building
-- Cloud-native backend services with **Spring Boot**
-- Dockerized systems orchestrated with **Kubernetes**
-- CI/CD pipelines that ship safely & automatically
-- Monitoring stacks using **Prometheus & Grafana**
-
----
 
 
-  <summary><b>👨‍💻 My Journey (for the curious)</b></summary>
+  <summary><b>👨‍💻 My Journey </b></summary>
 
 I started with backend development using Java & Spring Boot, then naturally moved into
 Linux, automation, CI/CD, and containerization. Today, I’m growing toward a **Platform /
 DevOps-oriented backend engineer** role — focused on building systems that teams can rely on
 in production.
-</details>
 
 ---
 
