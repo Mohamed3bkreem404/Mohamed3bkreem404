@@ -29,7 +29,7 @@
 
 ### DevOps, Cloud & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,helm,terraform,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws&theme=dark" />
 </p>
 
 ### Databases & Messaging
