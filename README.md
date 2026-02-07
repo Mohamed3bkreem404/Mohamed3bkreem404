@@ -20,7 +20,7 @@
 
 ---
 
-## 🧰 Tech Stack (Battle-Tested)
+## 🧰 Tech Stack 
 
 ### Backend & Languages
 <p>
