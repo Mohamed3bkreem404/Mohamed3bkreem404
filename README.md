@@ -1,8 +1,27 @@
-# 🥷🏻 Mohamed AbdElkareem
-I'm a software engineer , specialist in Backend & devops , Java apologist
+# 🥷🏻 Mohamed AbdElkareem  
+
+**Software Engineer | Backend & DevOps Specialist | Java Apologist ☕**
+
+Passionate about building scalable backend systems, automating infrastructure,  
+and writing clean, maintainable code.
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/1CDRjj74zA/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Mohamed3bkrem?t=vk6r3vz6LLDtMuUOKINF6w&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
 ### 🧰 Languages, DevOps & Platform Tools
 
 #### 🧑‍💻 Programming & Scripting
