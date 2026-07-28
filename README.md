@@ -21,117 +21,158 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Kubernetes+%7C+Terraform+%7C+GitOps;Cloud-native+infrastructure+and+automation;Observable%2C+repeatable%2C+production-style+platforms"
-    alt="Animated engineering focus"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/Mohamed3bkreem404">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
+
 <a href="https://x.com/Mohamed3bkrem">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
 
 </div>
 
 <br/>
 
+```bash
 mohamed@platform:~$ ./profile --status
 
 role        = "Cloud & DevOps Engineer"
 focus       = ["Kubernetes", "Infrastructure as Code", "GitOps", "Observability"]
 philosophy  = "Automate the repeatable. Observe the critical. Document the dangerous."
 currently   = "Building production-style cloud platforms and deployment systems"
+```
 
-⚡ Engineering Identity
+## ⚡ Engineering Identity
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-☁️ Cloud Infrastructure
+### ☁️ Cloud Infrastructure
 
 I build reproducible infrastructure with a strong focus on networking, security boundaries, scalability, and operational clarity.
 
-AWS · Terraform · Linux · Bash · Python
+`AWS` · `Terraform` · `Linux` · `Bash` · `Python`
 
 </td>
+
 <td width="50%" valign="top">
 
-⚙️ Container Platforms
+### ⚙️ Container Platforms
 
 I package and operate distributed workloads using declarative configuration and repeatable deployment patterns.
 
-Docker · Kubernetes · Helm · Traefik
+`Docker` · `Kubernetes` · `Helm` · `Traefik`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-🔁 Delivery & GitOps
+### 🔁 Delivery & GitOps
 
 I design delivery flows that turn source changes into traceable, versioned, and recoverable deployments.
 
-GitHub Actions · Jenkins · Argo CD · Git
+`GitHub Actions` · `Jenkins` · `Argo CD` · `Git`
 
 </td>
+
 <td width="50%" valign="top">
 
-📡 Observability
+### 📡 Observability
 
 I treat metrics, dashboards, alerts, and failure visibility as platform features—not decorations added after deployment.
 
-Prometheus · Grafana · Alertmanager
+`Prometheus` · `Grafana` · `Alertmanager`
 
 </td>
 </tr>
 </table>
 
-🧬 Platform DNA
+## 🧬 Platform DNA
 
 <div align="center">
 
-Cloud & Infrastructure
+### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,linux,bash,python&theme=dark" alt="Cloud and infrastructure tools"/>
+<img
+  src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,linux,bash,python&theme=dark"
+  alt="Cloud and infrastructure tools"
+/>
 
-Containers, Delivery & GitOps
+### Containers, Delivery & GitOps
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github&theme=dark" alt="Containers and delivery tools"/>
+<img
+  src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github&theme=dark"
+  alt="Containers and delivery tools"
+/>
 
-Applications, Data & Tooling
+### Applications, Data & Tooling
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,maven,nginx,vscode&theme=dark" alt="Application and data tools"/>
+<img
+  src="https://skillicons.dev/icons?i=java,spring,postgres,redis,maven,nginx,vscode&theme=dark"
+  alt="Application and data tools"
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/>
-<img src="https://img.shields.io/badge/Alertmanager-111827?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
+<img
+  src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"
+  alt="Helm"
+/>
+
+<img
+  src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"
+  alt="Argo CD"
+/>
+
+<img
+  src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"
+  alt="Prometheus"
+/>
+
+<img
+  src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"
+  alt="Grafana"
+/>
+
+<img
+  src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white"
+  alt="Traefik"
+/>
+
+<img
+  src="https://img.shields.io/badge/Alertmanager-111827?style=flat-square&logo=prometheus&logoColor=white"
+  alt="Alertmanager"
+/>
 
 </div>
 
-🚀 Featured Engineering Work
+## 🚀 Featured Engineering Work
 
-International Commerce Platform
+### International Commerce Platform
 
 A cloud-native commerce platform built to demonstrate the full path from application source code to automated infrastructure, container delivery, GitOps deployment, and observability.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
+
 <a href="https://github.com/Mohamed3bkreem404/International-Commerce">
   <img
     width="100%"
@@ -139,9 +180,11 @@ A cloud-native commerce platform built to demonstrate the full path from applica
     alt="International Commerce Platform"
   />
 </a>
+
 </td>
 
 <td width="50%" valign="top">
+
 <a href="https://github.com/Mohamed3bkreem404/TaskOps-Platform">
   <img
     width="100%"
@@ -149,7 +192,9 @@ A cloud-native commerce platform built to demonstrate the full path from applica
     alt="TaskOps Platform"
   />
 </a>
+
 </td>
+
 </tr>
 </table>
 
@@ -157,20 +202,42 @@ A cloud-native commerce platform built to demonstrate the full path from applica
 
 <table>
 <tr>
-<td align="center"><b>&lt; 12 min</b><br/><sub>Infrastructure provisioning</sub></td>
-<td align="center"><b>&lt; 4 min</b><br/><sub>Automated deployment cycle</sub></td>
-<td align="center"><b>~60%</b><br/><sub>Docker image reduction</sub></td>
-<td align="center"><b>GitOps</b><br/><sub>Versioned Kubernetes delivery</sub></td>
+
+<td align="center" width="25%">
+  <b>&lt; 12 min</b>
+  <br/>
+  <sub>Infrastructure provisioning</sub>
+</td>
+
+<td align="center" width="25%">
+  <b>&lt; 4 min</b>
+  <br/>
+  <sub>Automated deployment cycle</sub>
+</td>
+
+<td align="center" width="25%">
+  <b>~60%</b>
+  <br/>
+  <sub>Docker image reduction</sub>
+</td>
+
+<td align="center" width="25%">
+  <b>GitOps</b>
+  <br/>
+  <sub>Versioned Kubernetes delivery</sub>
+</td>
+
 </tr>
 </table>
 
-Platform stack
-
-
+### Platform Architecture
 
 <details>
 <summary><b>Open platform architecture</b></summary>
 
+<br/>
+
+```mermaid
 flowchart LR
     DEV[Developer] --> GIT[GitHub Repository]
     GIT --> CI[GitHub Actions]
@@ -191,23 +258,21 @@ flowchart LR
     APP --> PROM[Prometheus]
     PROM --> GRAF[Grafana]
     PROM --> ALERT[Alertmanager]
+```
 
 </details>
 
-What this project proves
+### What This Project Proves
 
-Infrastructure can be recreated instead of repaired manually.
+- Infrastructure can be recreated instead of repaired manually.
+- Application delivery can be versioned, automated, and observed.
+- Kubernetes manifests are treated as release artifacts.
+- Monitoring and alerting are included in the platform design.
+- Backend knowledge is used to operate applications more intelligently.
 
-Application delivery can be versioned, automated, and observed.
+## 🛰️ What I Am Building Toward
 
-Kubernetes manifests are treated as release artifacts.
-
-Monitoring and alerting are included in the platform design.
-
-Backend knowledge is used to operate applications more intelligently.
-
-🛰️ What I Am Building Toward
-
+```text
 Platform Engineering
 ├── Secure cloud foundations
 ├── Reusable Terraform modules
@@ -217,43 +282,84 @@ Platform Engineering
 ├── Production-grade observability
 ├── Deployment runbooks and incident readiness
 └── Cost, reliability, and security improvements
+```
 
-📊 GitHub Signal
+## 📊 GitHub Signal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed3bkreem404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Mohamed3bkreem404&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub streak"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Mohamed3bkreem404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github"
+  alt="GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=Mohamed3bkreem404&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
+  alt="GitHub streak"
+/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed3bkreem404&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img
+  width="98%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed3bkreem404&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true"
+  alt="Contribution activity graph"
+/>
 
 </div>
 
-🐍 Contribution Flow
+## 🐍 Contribution Flow
+
+<p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    width="100%"
+    alt="Contribution snake animation"
+    src="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
 
-🤝 Let’s Build Reliable Systems
+</p>
+
+## 🤝 Let’s Build Reliable Systems
 
 <div align="center">
 
 I am interested in DevOps, Cloud, Platform Engineering, and Infrastructure Automation opportunities.
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect on LinkedIn"
+  />
 </a>
+
 <a href="https://github.com/Mohamed3bkreem404?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  <img
+    src="https://img.shields.io/badge/Explore_My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore repositories"
+  />
 </a>
+
+<br/><br/>
+
+<sub>
+Cloud infrastructure · Containers · Automation · GitOps · Observability
+</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=130&section=footer" alt="Footer"/>
