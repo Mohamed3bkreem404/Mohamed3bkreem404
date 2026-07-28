@@ -129,16 +129,29 @@ International Commerce Platform
 
 A cloud-native commerce platform built to demonstrate the full path from application source code to automated infrastructure, container delivery, GitOps deployment, and observability.
 
-<div align="center">
-
+<table>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/Mohamed3bkreem404/International-Commerce">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3bkreem404&repo=International-Commerce&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="International Commerce repository"/>
+  <img
+    width="100%"
+    src="./assets/international-commerce.svg"
+    alt="International Commerce Platform"
+  />
 </a>
-<a href="https://github.com/Mohamed3bkreem404/TaskOps-Platform">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3bkreem404&repo=TaskOps-Platform&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="TaskOps Platform repository"/>
-</a>
+</td>
 
-</div>
+<td width="50%" valign="top">
+<a href="https://github.com/Mohamed3bkreem404/TaskOps-Platform">
+  <img
+    width="100%"
+    src="./assets/taskops-platform.svg"
+    alt="TaskOps Platform"
+  />
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
