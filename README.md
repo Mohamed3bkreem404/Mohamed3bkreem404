@@ -290,15 +290,19 @@ Platform Engineering
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Mohamed3bkreem404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github"
-  alt="GitHub statistics"
-/>
-
-<img
-  width="49%"
   src="https://streak-stats.demolab.com?user=Mohamed3bkreem404&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"
   alt="GitHub streak"
 />
+
+<br/><br/>
+
+<img
+  width="98%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed3bkreem404&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true"
+  alt="Contribution activity graph"
+/>
+
+</div>
 
 <br/><br/>
 
