@@ -3,7 +3,13 @@
      Visual direction: Cloud / Platform / Neon Dark
 ========================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:0369A1,100:06B6D4&height=230&section=header&text=Mohamed%20AbdElkareem&fontSize=48&fontColor=F8FAFC&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descSize=19&descAlignY=56&animation=fadeIn" alt="Mohamed AbdElkareem banner"/>
+<p align="center">
+  <img
+    width="100%"
+    src="./assets/profile-banner.svg"
+    alt="Mohamed AbdElkareem — Cloud and DevOps Engineer"
+  />
+</p>
 
 <div align="center">
 
