@@ -11,6 +11,14 @@
   />
 </p>
 
+<p align="center">
+  <img
+    width="900"
+    src="./assets/engineering-focus.svg"
+    alt="Kubernetes, Terraform, GitOps and cloud-native infrastructure"
+  />
+</p>
+
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
