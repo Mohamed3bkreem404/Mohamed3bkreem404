@@ -1,224 +1,232 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" alt="Mohamed Abdelkareem — Cloud and Platform Engineering" width="100%" />
-</p>
+<!-- =========================================================
+     MOHAMED ABDELKAREEM — GITHUB PROFILE
+     Visual direction: Cloud / Platform / Neon Dark
+========================================================== -->
 
-<h1 align="center">Mohamed Abdelkareem</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:0369A1,100:06B6D4&height=230&section=header&text=Mohamed%20AbdElkareem&fontSize=48&fontColor=F8FAFC&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descSize=19&descAlignY=56&animation=fadeIn" alt="Mohamed AbdElkareem banner"/>
 
-<p align="center">
-  <strong>Cloud & Platform Engineering</strong><br/>
-  Kubernetes · Infrastructure as Code · GitOps · Observability
-</p>
+<div align="center">
 
-<p align="center">
-  Junior DevOps Engineer and Computer Science student building production-style cloud platforms on AWS.
-</p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Kubernetes+%7C+Terraform+%7C+GitOps;Cloud-native+infrastructure+and+automation;Observable%2C+repeatable%2C+production-style+platforms"
+    alt="Animated engineering focus"
+  />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:mo.abdelkareem.ahmed@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="./assets/Mohamed_Abdelkareem_CV.pdf">Resume</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Mohamed3bkreem404/International-Commerce">Flagship Project</a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-0B0D10?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-0B0D10?style=flat-square&logo=terraform&logoColor=844FBA" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-0B0D10?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0B0D10?style=flat-square&logo=helm&logoColor=0F1689" alt="Helm" />
-  <img src="https://img.shields.io/badge/Argo_CD-0B0D10?style=flat-square&logo=argo&logoColor=EF7B4D" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0B0D10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Prometheus-0B0D10?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-0B0D10?style=flat-square&logo=grafana&logoColor=F46800" alt="Grafana" />
-</p>
+<a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Mohamed3bkreem404">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://x.com/Mohamed3bkrem">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 
-Engineering profile
+</div>
 
-I work at the intersection of cloud infrastructure, delivery automation, and application reliability. My main project is a production-style commerce platform built around Spring Boot microservices and operated using AWS, Terraform, Docker, Kubernetes, Helm, Argo CD, GitHub Actions, Ansible, Prometheus, and Grafana.
+<br/>
 
-I focus on systems that are:
+mohamed@platform:~$ ./profile --status
 
-Reproducible — infrastructure and platform configuration live in code.
+role        = "Cloud & DevOps Engineer"
+focus       = ["Kubernetes", "Infrastructure as Code", "GitOps", "Observability"]
+philosophy  = "Automate the repeatable. Observe the critical. Document the dangerous."
+currently   = "Building production-style cloud platforms and deployment systems"
 
-Declarative — desired state is versioned, reviewed, and continuously reconciled.
+⚡ Engineering Identity
 
-Observable — metrics, dashboards, alerts, and health checks are part of the design.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Failure-aware — rollbacks, probes, resource limits, scaling, backups, and recovery paths are explicit.
+☁️ Cloud Infrastructure
 
-Secure by default — least privilege, network isolation, TLS, secrets management, and access control are built in.
+I build reproducible infrastructure with a strong focus on networking, security boundaries, scalability, and operational clarity.
 
-Platform capabilities
+AWS · Terraform · Linux · Bash · Python
 
-Layer
+</td>
+<td width="50%" valign="top">
 
-What I build and operate
+⚙️ Container Platforms
 
-Cloud
+I package and operate distributed workloads using declarative configuration and repeatable deployment patterns.
 
-AWS VPC networking, public/private subnets, NAT, ALB, EC2, RDS, IAM, S3, DynamoDB, and CloudWatch
+Docker · Kubernetes · Helm · Traefik
 
-Infrastructure
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Modular Terraform, remote state, Ansible automation, Bash and Python tooling, Linux administration
+🔁 Delivery & GitOps
 
-Containers
+I design delivery flows that turn source changes into traceable, versioned, and recoverable deployments.
 
-Multi-stage Docker builds, Docker Compose, Kubernetes Deployments and StatefulSets, Services, PVCs, probes, resource controls, and HPA
+GitHub Actions · Jenkins · Argo CD · Git
 
-Delivery
+</td>
+<td width="50%" valign="top">
 
-GitHub Actions, image versioning, Helm releases, Argo CD synchronization, self-healing, pruning, and rollback workflows
+📡 Observability
 
-Observability
+I treat metrics, dashboards, alerts, and failure visibility as platform features—not decorations added after deployment.
 
-Prometheus, Grafana, Alertmanager, Actuator, Micrometer, PostgreSQL Exporter, cAdvisor, and CloudWatch
+Prometheus · Grafana · Alertmanager
 
-Application context
+</td>
+</tr>
+</table>
 
-Java, Spring Boot, REST APIs, OpenFeign, Next.js, TypeScript, PostgreSQL, Redis, JWT, and RBAC
+🧬 Platform DNA
 
-Selected work
+<div align="center">
 
-International Commerce — Cloud-Native E-Commerce Platform
+Cloud & Infrastructure
 
-A production-style platform composed of an API Gateway, five domain microservices, a Next.js frontend, service-owned PostgreSQL databases, Redis caching, automated cloud infrastructure, Kubernetes delivery, GitOps, and end-to-end observability.
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,linux,bash,python&theme=dark" alt="Cloud and infrastructure tools"/>
 
-<p>
-  <a href="https://github.com/Mohamed3bkreem404/International-Commerce">
-    <img src="https://img.shields.io/badge/View_repository-11151A?style=flat-square&logo=github&logoColor=white" alt="View repository" />
-  </a>
-</p>
+Containers, Delivery & GitOps
 
-Engineering outcomes
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github&theme=dark" alt="Containers and delivery tools"/>
 
-Result
+Applications, Data & Tooling
 
-Implementation
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,maven,nginx,vscode&theme=dark" alt="Application and data tools"/>
 
-Under 12 minutes
+<br/><br/>
 
-Rebuilt the AWS environment using modular Terraform
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/>
+<img src="https://img.shields.io/badge/Alertmanager-111827?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
 
-More than 80% faster delivery
+</div>
 
-Reduced deployment time from about 20 minutes to under 4 minutes
+🚀 Featured Engineering Work
 
-About 60% smaller images
+International Commerce Platform
 
-Reduced service images from roughly 800 MB to 320 MB with multi-stage builds
+A cloud-native commerce platform built to demonstrate the full path from application source code to automated infrastructure, container delivery, GitOps deployment, and observability.
 
-2 → 8 replicas
+<div align="center">
 
-Configured HPA scaling at 70% CPU utilization
+<a href="https://github.com/Mohamed3bkreem404/International-Commerce">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3bkreem404&repo=International-Commerce&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="International Commerce repository"/>
+</a>
+<a href="https://github.com/Mohamed3bkreem404/TaskOps-Platform">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed3bkreem404&repo=TaskOps-Platform&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="TaskOps Platform repository"/>
+</a>
 
-Protected Terraform state
+</div>
 
-Used an S3 remote backend with DynamoDB locking
+<br/>
 
-Platform architecture
+<table>
+<tr>
+<td align="center"><b>&lt; 12 min</b><br/><sub>Infrastructure provisioning</sub></td>
+<td align="center"><b>&lt; 4 min</b><br/><sub>Automated deployment cycle</sub></td>
+<td align="center"><b>~60%</b><br/><sub>Docker image reduction</sub></td>
+<td align="center"><b>GitOps</b><br/><sub>Versioned Kubernetes delivery</sub></td>
+</tr>
+</table>
+
+Platform stack
+
+
+
+<details>
+<summary><b>Open platform architecture</b></summary>
 
 flowchart LR
-    Engineer[Engineer] --> GitHub[GitHub]
-    GitHub --> Actions[GitHub Actions]
-    Actions --> Registry[Container Registry]
-    Actions --> Config[Versioned Helm Values]
-    Config --> Argo[Argo CD]
-    Argo --> Cluster[Kubernetes Platform]
-    Registry --> Cluster
+    DEV[Developer] --> GIT[GitHub Repository]
+    GIT --> CI[GitHub Actions]
+    CI --> REG[Container Registry]
 
-    Client[Web Client] --> ALB[AWS ALB]
-    ALB --> Edge[Traefik / Ingress]
-    Edge --> Gateway[API Gateway]
+    TF[Terraform] --> AWS[AWS Infrastructure]
+    AWS --> K8S[Kubernetes Platform]
 
-    Gateway --> User[User Service]
-    Gateway --> Product[Product Service]
-    Gateway --> Cart[Cart Service]
-    Gateway --> Order[Order Service]
-    Gateway --> Payment[Payment Service]
+    GIT --> ARGO[Argo CD]
+    ARGO --> HELM[Helm Releases]
+    HELM --> K8S
+    REG --> K8S
 
-    User --> RDS[(PostgreSQL)]
-    Product --> RDS
-    Cart --> RDS
-    Order --> RDS
-    Payment --> RDS
-    Product --> Redis[(Redis)]
+    K8S --> APP[Spring Boot Microservices]
+    APP --> PG[(PostgreSQL)]
+    APP --> REDIS[(Redis)]
 
-    Cluster -. metrics .-> Prometheus[Prometheus]
-    Prometheus --> Grafana[Grafana]
-    Prometheus --> Alertmanager[Alertmanager]
-    Cluster -. infrastructure metrics .-> CloudWatch[CloudWatch]
+    APP --> PROM[Prometheus]
+    PROM --> GRAF[Grafana]
+    PROM --> ALERT[Alertmanager]
 
-What this project demonstrates
+</details>
 
-AWS networking and infrastructure provisioning with Terraform.
+What this project proves
 
-Container build optimization and repeatable local environments.
+Infrastructure can be recreated instead of repaired manually.
 
-Kubernetes orchestration for stateful and stateless workloads.
+Application delivery can be versioned, automated, and observed.
 
-Reusable Helm charts for application, monitoring, and GitOps resources.
+Kubernetes manifests are treated as release artifacts.
 
-Automated build, versioning, image publishing, deployment, and health validation.
+Monitoring and alerting are included in the platform design.
 
-GitOps synchronization with self-healing and pruning.
+Backend knowledge is used to operate applications more intelligently.
 
-JVM, application, database, container, and infrastructure monitoring.
+🛰️ What I Am Building Toward
 
-TLS, security headers, rate limiting, least-privilege IAM, JWT, and role-based access control.
+Platform Engineering
+├── Secure cloud foundations
+├── Reusable Terraform modules
+├── Kubernetes platform operations
+├── Helm-based application packaging
+├── GitOps delivery with Argo CD
+├── Production-grade observability
+├── Deployment runbooks and incident readiness
+└── Cost, reliability, and security improvements
 
-TaskOps Platform — DevOps Practice Lab
+📊 GitHub Signal
 
-A Spring Boot monolith used as an isolated engineering lab for Docker, CI/CD, infrastructure automation, and failure-driven operational practice.
+<div align="center">
 
-<p>
-  <a href="https://github.com/Mohamed3bkreem404/TaskOps-Platform">
-    <img src="https://img.shields.io/badge/View_repository-11151A?style=flat-square&logo=github&logoColor=white" alt="View TaskOps repository" />
-  </a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed3bkreem404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Mohamed3bkreem404&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GitHub streak"/>
 
-The goal is not another application demo. It is a controlled place to test delivery workflows, break infrastructure safely, document failure modes, and turn fixes into repeatable automation.
+<br/><br/>
 
-Technical progression
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed3bkreem404&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph"/>
 
-Backend foundations
-Java · Spring Boot · REST APIs · PostgreSQL · Redis
-        ↓
-Delivery and operations
-Linux · Docker · GitHub Actions · Networking · Automation
-        ↓
-Cloud platform engineering
-AWS · Terraform · Kubernetes · Helm · Argo CD · Ansible
-        ↓
-Reliability engineering
-Prometheus · Grafana · Alertmanager · Health checks · Scaling · Recovery
+</div>
 
-Current focus
+🐍 Contribution Flow
 
-Making Terraform and Helm components easier to reuse across environments.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mohamed3bkreem404/Mohamed3bkreem404/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-Improving GitOps promotion, rollback, drift visibility, and deployment safety.
+🤝 Let’s Build Reliable Systems
 
-Turning operational knowledge into architecture records, runbooks, and failure scenarios.
+<div align="center">
 
-Strengthening platform security through policy, automated validation, and least-privilege design.
+I am interested in DevOps, Cloud, Platform Engineering, and Infrastructure Automation opportunities.
 
-Expanding observability from dashboards into service-level signals and actionable alerts.
+<br/>
 
-Open engineering
+<a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/Mohamed3bkreem404?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-I use public repositories as engineering case studies: architecture, decisions, automation, trade-offs, failures, and recovery steps should be visible—not hidden behind a wall of technology logos.
+</div>
 
-Issues, reviews, and practical infrastructure discussions are welcome.
-
-<p align="center">
-  <strong>Open to Junior DevOps, Cloud, Platform, and Infrastructure Engineering opportunities.</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:mo.abdelkareem.ahmed@gmail.com">mo.abdelkareem.ahmed@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-abdelkareem-311317357">LinkedIn</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=130&section=footer" alt="Footer"/>
