@@ -1,1 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="68" viewBox="0 0 900 68">
+  <rect width="900" height="68" rx="14" fill="#0d1117"/>
 
+  <style>
+    text {
+      font-family: "JetBrains Mono", Consolas, monospace;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #22d3ee;
+    }
+
+    .line {
+      opacity: 0;
+    }
+
+    .line-1 {
+      animation: showLine 9s infinite;
+    }
+
+    .line-2 {
+      animation: showLine 9s 3s infinite;
+    }
+
+    .line-3 {
+      animation: showLine 9s 6s infinite;
+    }
+
+    .cursor {
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes showLine {
+      0%,
+      5% {
+        opacity: 0;
+      }
+
+      12%,
+      30% {
+        opacity: 1;
+      }
+
+      35%,
+      100% {
+        opacity: 0;
+      }
+    }
+
+    @keyframes blink {
+      0%,
+      45% {
+        opacity: 1;
+      }
+
+      46%,
+      100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <text
+    x="450"
+    y="42"
+    text-anchor="middle"
+    class="line line-1"
+  >
+    Kubernetes · Terraform · GitOps
+  </text>
+
+  <text
+    x="450"
+    y="42"
+    text-anchor="middle"
+    class="line line-2"
+  >
+    Cloud-native infrastructure and automation
+  </text>
+
+  <text
+    x="450"
+    y="42"
+    text-anchor="middle"
+    class="line line-3"
+  >
+    Observable, repeatable, production-style platforms
+  </text>
+
+  <rect
+    x="825"
+    y="25"
+    width="3"
+    height="23"
+    rx="1"
+    fill="#a78bfa"
+    class="cursor"
+  />
+</svg>
