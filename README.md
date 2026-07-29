@@ -306,11 +306,6 @@ Platform Engineering
 
 <br/><br/>
 
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed3bkreem404&bg_color=0D1117&color=22D3EE&line=A78BFA&point=F8FAFC&area=true&hide_border=true"
-  alt="Contribution activity graph"
-/>
 
 </div>
 
